@@ -1,2 +1,3 @@
 # it-lab
-Frontend for `it-lab` app.
+
+Vue frontend for `it-lab` app.
